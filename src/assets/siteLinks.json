@@ -6,13 +6,13 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "资源站",
+    "link": "https://res.xmcraft.cn/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "Whiteboard20Regular",
+    "name": "申请白名单",
+    "link": "https://xmcraft-offical.feishu.cn/share/base/form/shrcnIaBDqJpLO7yQLKYa8YGiOd"
   },
   {
     "icon": "Compass",
@@ -30,8 +30,8 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
+    "icon": "Server",
+    "name": "状态监测",
     "link": "https://status.imsyy.top/"
   }
 ]
